@@ -5,5 +5,5 @@ A passionate junior front-end developer. Enthusiastic about creating beautiful a
 
 _______________________________________________________________________________________________________________________________________________________________________________
 ### Languages and Tools:
-<img alt="html" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FHTML5&psig=AOvVaw2p4IDjgXC7b_UVYFXBm8I6&ust=1719937698520000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMj7q7OhhocDFQAAAAAdAAAAABAE " />
+<img alt="html" src=" https://static.wikia.nocookie.net/logopedia/images/1/19/HTML5_shield.svg/revision/latest?cb=20210709052138" />
 
