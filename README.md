@@ -1,7 +1,7 @@
 ### "Hello"
 
-My name is Lasha Purtseladze 
-A passionate junior front-end developer. Enthusiastic about creating beautiful and user-friendly web experiences. Currently diving deep into HTML, CSS, and JavaScript, while also exploring popular frameworks such as React.I'm excited about collaborating on projects and soaking up knowledge from the developer community. Excited to delve into the world of web development and collaborate on groundbreaking projects!
+I'm a passionate junior front-end developer with a keen eye for creating beautiful and user-friendly web experiences. I'm currently deepening my expertise in HTML, CSS, and JavaScript, while also mastering popular frameworks like React, Next.js, and TypeScript. I thrive on collaboration and am always eager to learn from the developer community. My goal is to contribute to groundbreaking projects and continue growing as a developer in the dynamic world of web development.
+
 
 _______________________________________________________________________________________________________________________________________________________________________________
 
