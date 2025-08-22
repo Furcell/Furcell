@@ -1,9 +1,7 @@
-### "Hello"
+✅ SQA Engineer with Front-End Development Background
 
-I'm a passionate junior front-end developer with a keen eye for creating beautiful and user-friendly web experiences. I'm currently deepening my expertise in HTML, CSS, and JavaScript, while also mastering popular frameworks like React, Next.js, and TypeScript. I thrive on collaboration and am always eager to learn from the developer community. My goal is to contribute to groundbreaking projects and continue growing as a developer in the dynamic world of web development.
+I am a Software Quality Assurance Engineer with a strong foundation in **JavaScript, HTML, and CSS**.  
+My front-end development knowledge helps me understand application architecture, test more effectively, and collaborate seamlessly with developers.
 
-
-_______________________________________________________________________________________________________________________________________________________________________________
-
-
-
+Currently, I am focused on advancing my **manual testing skills** and gaining deeper expertise in **automation with Cypress and Playwright**.  
+My goal is to deliver high-quality software in fast-paced **Agile environments**, combining technical knowledge with testing expertise to ensure exceptional user experiences and build reliable, scalable applications.
